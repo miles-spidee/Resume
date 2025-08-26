@@ -22,7 +22,7 @@ hr {
   display: flex;
   flex-direction: column;
   width: 20vw;
-  background-color: rgb(42, 68, 153);
+  background-color: rgb(32, 62, 161);
   border: 1px black solid;
 }
 
@@ -55,7 +55,7 @@ h5 {
 .r-side {
   width: 80vw;
   height: 100vh;
-  background-color: rgb(151, 208, 255);
+  background-color: rgb(215, 234, 248);
   padding: 1rem 3rem;
   display: flex;
   flex-direction: column;
